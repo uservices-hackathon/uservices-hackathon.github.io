@@ -16,7 +16,7 @@ layout: default
 
 <table class='table'>
   <tbody>
-  {% for project in site.data.projects.projects %}
+  {% for project in site.data.projects %}
     <tr>
       <td><a href="http://0.0.0.0:{{ project.port }}">{{ project.name }} (port {{ project.port }})</a></td>
       <td><a href="http://0.0.0.0:{{ project.port }}/swagger/index.html">Swagger</a></td>
