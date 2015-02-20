@@ -18,9 +18,9 @@ layout: default
   <tbody>
   {% for project in site.data.projects %}
     <tr>
-      <td><a href="http://0.0.0.0:{{ project.port }}">{{ project.name }} (port {{ project.port }})</a></td>
-      <td><a href="http://0.0.0.0:{{ project.port }}/swagger/index.html">Swagger</a></td>
-      <td><a href="#">Jenkins</a></td>
+      <td><a href="http://apps.{{ domain }}:{{ project.port }}">{{ project.name }} (port {{ project.port }})</a></td>
+      <td><a href="http://apps.{{ domain }}:{{ project.port }}/swagger/index.html">Swagger</a></td>
+      <td><a href="http://jenkins.{{ domain }}/job/{{ project.name }}/">Jenkins</a></td>
     </tr>
   {% endfor %}
   </tbody>
