@@ -1,5 +1,5 @@
-title: Microservice Hackathon
+title: WJUG Microservices - Warszawa 2015-09-08
+url: "http://2015-09-wjug-microservices.github.io"
 markdown: redcarpet
 exclude: ['vendor']
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+domain: wjug
