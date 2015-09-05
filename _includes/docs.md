@@ -82,6 +82,6 @@ To start it's enough to run the following Gradle Command
 
 #  <a name="working"/></a> Working example of the whole setup
 
-[Link to the Github organization with proper setup](https://github.com/2015-06-devoxx-microservices)
+[Link to the Github organization with proper setup](https://github.com/2015-09-wjug-microservices)
 
 
