@@ -16,3 +16,5 @@
     url: http://graphite.wjug:8080
 -   name: Spring Boot Admin
     url: http://apps.wjug:9999
+-   name: Icinga
+    url: http://apps.wjug/icinga2-classicui/
