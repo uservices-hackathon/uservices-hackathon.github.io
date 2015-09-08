@@ -1,9 +1,9 @@
-Codepot 2015 Workshop
+WJUG 2015 Microservices
 =====================
 
-Welcome to the Codepot 2015 Workshop!
+Welcome to the WJUG 2015 Microservices!
 
-Here you find all information required for you to work during the Codepot 2015 Workshop.
+Here you find all information required for you to work during the WJUG 2015 Microservices presentation.
 
 # Table of contents
 
