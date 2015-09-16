@@ -18,3 +18,6 @@
     url: http://apps.wjug:9999
 -   name: Icinga
     url: http://apps.wjug/icinga2-classicui/
+-   name: Zipkin
+    url: http://apps.wjug:8880/
+    
