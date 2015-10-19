@@ -53,25 +53,6 @@ Here you find all information required for you to work during the WJUG 2015 Micr
 
 # <a name="ok-what-should-I-do-now"/></a> Ok what should I do now? 
 
-## Set up /etc/hosts
-
-Go to your `/etc/hosts` and append values like below:
-
-```
-52.16.215.68    nexus.wjug
-52.19.100.152   rundeck.wjug
-52.19.100.44    graphite.wjug
-52.19.100.44    grafana.wjug
-52.19.100.44    seyren.wjug
-52.19.107.141   loggers.wjug
-52.19.107.141   kibana.wjug
-52.19.16.87     apps apps.wjug 
-52.19.96.168    jenkins.wjug
-
-```
-
----
-
 # <a href="how-to-run-my-microservice-locally"></a> How to run my microservice locally
 
 To start it's enough to run the following Gradle Command
@@ -82,6 +63,6 @@ To start it's enough to run the following Gradle Command
 
 #  <a name="working"/></a> Working example of the whole setup
 
-[Link to the Github organization with proper setup](https://github.com/2015-09-wjug-microservices)
+[Link to the Github organization with proper setup](https://github.com/uservices-hackathon)
 
 

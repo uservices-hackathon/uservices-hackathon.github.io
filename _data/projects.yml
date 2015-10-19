@@ -1,12 +1,12 @@
 -   name: aggregatr.io
     port: 9090
-    template: ssh://git@github.com/2015-06-devoxx-microservices/aggregatr.io.git
+    template: ssh://git@github.com/uservices-hackathon/aggregatr.io.git
 -   name: butelkatr.io
     port: 9091
-    template: ssh://git@github.com/2015-06-devoxx-microservices/butelkatr.io.git
+    template: ssh://git@github.com/uservices-hackathon/butelkatr.io.git
 -   name: dojrzewatr.io
     port: 9092
-    template: ssh://git@github.com/2015-06-devoxx-microservices/dojrzewatr.io.git
+    template: ssh://git@github.com/uservices-hackathon/dojrzewatr.io.git
 -   name: prezentatr.io
     port: 9093
-    template: ssh://git@github.com/2015-06-devoxx-microservices/prezentatr.io.git
+    template: ssh://git@github.com/uservices-hackathon/prezentatr.io.git
