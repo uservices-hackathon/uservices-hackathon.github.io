@@ -8,7 +8,6 @@ Here you find all information required for you to work during the WJUG 2015 Micr
 # Table of contents
 
 - [Documentation](#documentation)
-- [Ok what should I do now?](#ok-what-should-I-do-now)
 - [How to run my microservice locally](#how-to-run-my-microservice-locally)
 - [What's my service's port?](#ports)
 - [Where are all the tools?](#tools)
@@ -50,8 +49,6 @@ Here you find all information required for you to work during the WJUG 2015 Micr
 - [Micro-Infra-Spring codebase](https://github.com/4finance/micro-infra-spring)
 
 ---
-
-# <a name="ok-what-should-I-do-now"/></a> Ok what should I do now? 
 
 # <a href="how-to-run-my-microservice-locally"></a> How to run my microservice locally
 
