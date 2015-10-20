@@ -17,6 +17,6 @@
 -   name: Spring Boot Admin
     url: http://apps.uservices.pl:9999
 -   name: Icinga
-    url: http://apps.uservices.pl/icinga2-classicui/
+    url: http://monitoring.uservices.pl/icinga2-classicui/
 -   name: Zipkin
     url: http://apps.uservices.pl:8880/

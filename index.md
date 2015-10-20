@@ -24,7 +24,7 @@ layout: default
     <tr>
       <td><a href="http://apps.{{ site.domain }}:{{ project.port }}">{{ project.name }} (port {{ project.port }})</a></td>
       <td><a href="http://apps.{{ site.domain }}:{{ project.port }}/swagger/index.html">Swagger</a></td>
-      <td><a href="http://jenkins.{{ site.domain }}/job/{{ project.name }}/">Jenkins</a></td>
+      <td><a href="http://jenkins.{{ site.domain }}:8080//view/microservice/view/pl/view/pl-delivery/view/pl-delivery-{{ project.name }}/">Jenkins</a></td>
     </tr>
   {% endfor %}
   </tbody>
