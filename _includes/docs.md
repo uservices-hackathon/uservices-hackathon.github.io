@@ -1,9 +1,9 @@
-WJUG 2015 Microservices
+Microservice Hackathon
 =====================
 
-Welcome to the WJUG 2015 Microservices!
+Welcome to the Microservice Hackathon!
 
-Here you find all information required for you to work during the WJUG 2015 Microservices presentation.
+Here you find all information required for you to work during the Microservice Hackathon.
 
 # Table of contents
 
