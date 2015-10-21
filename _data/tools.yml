@@ -20,3 +20,5 @@
     url: http://monitoring.uservices.pl/icinga2-classicui/
 -   name: Zipkin
     url: http://apps.uservices.pl:8880/
+-   name: Hystrix Dashboard
+    url: http://apps.uservices.pl:8090/
