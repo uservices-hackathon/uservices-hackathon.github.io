@@ -169,7 +169,7 @@ CorrelationIdHolder.get();
 In order to add alerting in Seyren you have to first:
 
 - Add hosts entries as presented in this doc
-- Go to `http://seyren.codepot`
+- Go to `http://graphite.uservices.pl:8080/`
 
 Now do the following actions:
 
@@ -228,18 +228,6 @@ Pick `Slack` as _Type_ and type in the _channel name with a hash at the beginnin
 
 ![alt text](images/seyren/seyren_create_subscription.png "Fill out the subscription dialog")
 
-## How to run in debug mode with stubs from nexus
-
-application.yaml
-
-```yaml
-stubrunner:
-  #skip-local-repo: false
-  #work-offline: true
-  use-microservice-definitions: true
-  stubs:
-    repository.root: "http://52.16.215.68:8081/nexus/content/repositories/releases/"
-```
 
 ### How to start in dev mode
 
